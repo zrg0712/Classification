@@ -1,1 +1,1 @@
-# ClassifyNetwork
+# Classical image classification network
